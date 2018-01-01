@@ -1,6 +1,6 @@
 # PERT-Estimate
 
-PERT-Estimation with factors based on Angular 5.
+PERT-Estimation with factors based on Angular 5. [Try it!](https://valentin-vogel.github.io/estimate/)
 
 ## Contributing
 
