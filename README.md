@@ -4,7 +4,7 @@ This is a [PERT](https://en.wikipedia.org/wiki/Three-point_estimation)-Estimatio
 
 ## Usage
 
-A production build you will find [here](https://estimate.vercel.app).
+A production build you will find [here](https://estimate-pert.vercel.app/).
 
 ## Setup
 
